@@ -1,0 +1,17 @@
+{
+  "name": "get-ssr",
+  "version": "1.0.0",
+  "description": "download ss/ssr config file",
+  "main": "index.js",
+  "bin": {
+    "get-ssr": "./bin/index.js"
+  },
+  "author": "jeege",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^6.2.0",
+    "mkdirp": "^1.0.4"
+  }
+}
