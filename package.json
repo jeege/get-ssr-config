@@ -1,6 +1,6 @@
 {
   "name": "get-ssr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "download ss/ssr config file",
   "main": "index.js",
   "bin": {
